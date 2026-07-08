@@ -18,6 +18,11 @@ Reading docs rn. Can't figure out yet how to use the display.
 
 Found demo code to test it. Not working -- investigating. Maybe connection issue? Seems to be connected correctly. I was also using the wrong version of the demo code, but even after updating to the current one it didn't work.
 
-July 8th
+July 8th Time: 20m
 
-Nice folks in #outpost-experts helped me! Imma change my 
+Nice folks in #outpost-experts helped me!
+
+![image](https://cdn.hackclub.com/019f43b0-57e0-750d-95d7-b6ff358ec94e/paste-1783547058179.png)
+
+I changed the button to be pull-up, and it works nicely now!!!! This is awesome!!
+
