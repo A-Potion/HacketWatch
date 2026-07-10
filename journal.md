@@ -26,3 +26,6 @@ Nice folks in #outpost-experts helped me!
 
 I changed the button to be pull-up, and it works nicely now!!!! This is awesome!!
 
+July 9th 30m
+
+Now that the button works, I'll start working on making the screen exist! From scratch, by myself, reffering to the demo codes! I started typing the example code into my code line by line. It's initializing the display for now. While this is not creative at all, I am learning a lot by considering each of the lines that I type instead of copying and pasting them.
